@@ -10,7 +10,7 @@ class ListNode(object):
         self.next = next
 
 
-class Solution:
+class Solution(object):
     """
     @param: head: ListNode head is the head of the linked list 
     @param: m: An integer

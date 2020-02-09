@@ -10,7 +10,7 @@ class ListNode(object):
         self.next = next
 
 
-class Solution:
+class Solution(object):
     """
     @param: head: n
     @return: The new head of reversed linked list.

@@ -9,7 +9,7 @@ class ListNode(object):
         self.next = next
 
 
-class Solution:
+class Solution(object):
     """
     @param: head: head is the head of the linked list
     @return: head of linked list
